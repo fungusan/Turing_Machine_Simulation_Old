@@ -4,9 +4,17 @@
 This is a super rough implementation on the logic of Turing machine. Features like
 multiple tapes, heads,  rich conditional controls, and signals are not designed nor implemented.
 
-As the logic is still in design phrase, without confirming the requirements of frontend side,
-This logic will be implemented first in C#, upon a full demonstrations, the logic will be transplanted to TypeScript.
+It is upon demanded from groupmates, I have a need to give an overview of integrating possibility,
+design document, and seeking for feedbacks.
+
+As the logic is still undergoing the design phrase, without confirming the requirements of frontend side,
+This logic will be implemented first in C#. After a full demonstrations, the logic will be transplanted to TypeScript.
 The input I planned for demonstration, will be simply a text file, and a `InputManager.cs` will take over this.
+
+You can simulate my predefined simulations on one tape, one head, and a super simple algorithm. Please note, it does not currently support features
+beyond that, so don't try to define your own simulation at this moment. 
+
+I'm also sorry to say, I don't have any inline comments for now, but I promise it will be the actual demonstration.
 
 ## Structure
 The directory you need to focus on is `/TuringMachineLib`.
@@ -19,9 +27,9 @@ system.
 ### `/Head`
 This is the directory for interface of Head (namely, the abstract outline of what Heads should do and store). There are now
 three files implementing this interface, each having their own features. For example, `ReadWriteHead.cs` will support
-both write and read operations.
+both tryWrite() and read operations.
 
-Heads will store reference to the cell of the tape, and handle the read and write operations, where simulators can call.
+Heads will store reference to the cell of the tape, the tape it is pointing to, and handle the tryWrite() and read operations, where simulators can call.
 
 ### `/Tape`
 This is the directory for interface of Tape.
