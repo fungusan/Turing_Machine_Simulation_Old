@@ -1,0 +1,14 @@
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.AssemblyInfoInputs.cache
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.AssemblyInfo.cs
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.csproj.CoreCompileInputs.cache
+/Users/guyguysir/RiderProjects/ECS/ECS/bin/Debug/net8.0/ECS
+/Users/guyguysir/RiderProjects/ECS/ECS/bin/Debug/net8.0/ECS.deps.json
+/Users/guyguysir/RiderProjects/ECS/ECS/bin/Debug/net8.0/ECS.runtimeconfig.json
+/Users/guyguysir/RiderProjects/ECS/ECS/bin/Debug/net8.0/ECS.dll
+/Users/guyguysir/RiderProjects/ECS/ECS/bin/Debug/net8.0/ECS.pdb
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.dll
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/refint/ECS.dll
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.pdb
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ECS.genruntimeconfig.cache
+/Users/guyguysir/RiderProjects/ECS/ECS/obj/Debug/net8.0/ref/ECS.dll
