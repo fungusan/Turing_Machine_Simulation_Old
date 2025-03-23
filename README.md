@@ -1,4 +1,4 @@
-# TuringMachineLogic
+# Turing Machine Logic
 
 ## Overview
 This is a super rough implementation on the logic of Turing machine. Features like
