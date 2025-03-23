@@ -1,5 +1,7 @@
 # Turing Machine Logic
 
+**Warming: This repository will no longer be updated!**
+
 ## Overview
 This is a super rough implementation on the logic of Turing machine. Features like
 multiple tapes, heads,  rich conditional controls, and signals are not designed nor implemented.
